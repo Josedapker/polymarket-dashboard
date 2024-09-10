@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Polymarket Dashboard
 
-## Getting Started
+This project is a dashboard for Polymarket, providing [brief description of what your dashboard does].
 
-First, run the development server:
+## Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Before you begin, ensure you have met the following requirements:
+* You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/)
+* You have a Windows/Linux/Mac machine.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installing Polymarket Dashboard
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To install Polymarket Dashboard, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:
+   ```
+   git clone https://github.com/Josedapker/polymarket-dashboard.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd polymarket-dashboard
+   ```
+3. Install the dependencies:
+   ```
+   npm install
+   ```
 
-## Learn More
+## Using Polymarket Dashboard
 
-To learn more about Next.js, take a look at the following resources:
+To use Polymarket Dashboard, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Run the development server:
+   ```
+   npm run dev
+   ```
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contributing to Polymarket Dashboard
 
-## Deploy on Vercel
+To contribute to Polymarket Dashboard, follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Contact
+
+If you want to contact me, you can reach me at <your_email@example.com>.
+
+## License
+
+This project uses the following license: [license_name](<link_to_license>).
